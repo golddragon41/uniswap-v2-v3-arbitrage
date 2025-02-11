@@ -41,3 +41,4 @@ Contributions, feedback, and issues are welcome! Please ensure to follow our con
 ---
 
 Note: Ensure you have all the dependencies installed and have set up the environment variables correctly before building and running the bot.
+that's it.
